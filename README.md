@@ -53,7 +53,6 @@ faq-management/
 ├── .dockerignore
 ├── .env
 ├── .gitignore
-├── license
 └── README.md
 ```
 
@@ -217,9 +216,3 @@ To run the project using Docker, follow these steps:
     ```sh
     docker-compose exec web python manage.py migrate
     ```
-
-
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
